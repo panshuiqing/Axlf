@@ -1,0 +1,14 @@
+1、日志：NLog
+2、单元测试：xUnit、Moq
+3、IOC：autofac (首选)、castle windsor、unity
+4、ORM：PetaPoco(轻量级http://www.toptensoftware.com/petapoco)、NHibernate、Entity Framework
+5、Asp.net MVC、JQuery、Modernizer、BootStrap、Knockout.js
+6、Excel导出：NPOI
+7、压缩工具：Ionic.Zip
+8、调度服务：Quartz
+------------------------------------------------
+AutoMapper 实体对象之间的转换
+
+每天至少翻5页书；跑30分钟步；对1个陌生人微笑；赞美1个人；说1句我爱你；每月至少有1个进步；每半年旅行1次；每年做1次体检；至少有1人值得深爱；至少有1个爱好让你契而不舍；至少有1个梦想变成现实。
+
+--------------------------------------------------
